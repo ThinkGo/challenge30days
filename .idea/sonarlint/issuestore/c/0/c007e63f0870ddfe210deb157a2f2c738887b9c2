@@ -1,0 +1,12 @@
+
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8Â§Æ¿ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶“şôûÿÿÿÿ8èğ¿ú.
+]	java:S125"<This block of commented-out lines of code should be removed.(øŠîüÿÿÿÿ8¹àõ¿ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ªüÜŸ8¹àõ¿ú.
+O
+java:S3958"2Refactor the code so this stream pipeline is used.(ÄûÚç8óµñ¿ú.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Â§Æ¿ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ôí–š8¹àõ¿ú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•Î‰¤ûÿÿÿÿ8èğ¿ú.
