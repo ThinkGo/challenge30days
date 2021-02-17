@@ -1,4 +1,4 @@
-package kroger.p6;
+package kr0ger.p6;
 
 public class ArrayComparison {
     public static void main(String[] args) {

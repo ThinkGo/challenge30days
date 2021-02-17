@@ -1,4 +1,4 @@
-package swift;
+package sw1ft;
 
 //i[] > 0-100 values , weight
 //compare top two

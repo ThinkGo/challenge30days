@@ -1,4 +1,4 @@
-package kroger.p7;
+package kr0ger.p7;
 
 //What is the output from running main?
 //	Note: LinkedList implements the Queue interface

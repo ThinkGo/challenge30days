@@ -1,8 +1,6 @@
-package kroger.p3;
+package kr0ger.p3;
 
 import java.util.Arrays;
-import java.util.List;
-import java.util.function.Predicate;
 
 public class StreamsTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package kroger.p1;
+package kr0ger.p1;
 
 import java.util.HashMap;
 
